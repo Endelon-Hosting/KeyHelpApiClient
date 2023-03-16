@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <Title>KeyHelp api client</Title>
+        <Description>A unofficial key help api client generated using NSwag</Description>
+        <Copyright>https://www.keyhelp.de/en/</Copyright>
+        <PackageProjectUrl>https://app.swaggerhub.com/apis-docs/keyhelp/api/2.5</PackageProjectUrl>
+    </PropertyGroup>
+
+</Project>

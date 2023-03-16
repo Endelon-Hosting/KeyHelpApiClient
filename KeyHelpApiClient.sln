@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyHelpApiClient", "KeyHelpApiClient\KeyHelpApiClient.csproj", "{246551D8-109A-46C3-A838-9983498DBA28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{246551D8-109A-46C3-A838-9983498DBA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246551D8-109A-46C3-A838-9983498DBA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246551D8-109A-46C3-A838-9983498DBA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246551D8-109A-46C3-A838-9983498DBA28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
