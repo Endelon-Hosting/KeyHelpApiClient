@@ -8,6 +8,27 @@
         <Description>A unofficial key help api client generated using NSwag</Description>
         <Copyright>https://www.keyhelp.de/en/</Copyright>
         <PackageProjectUrl>https://app.swaggerhub.com/apis-docs/keyhelp/api/2.5</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/Endelon-Hosting/KeyHelpApiClient</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>keyhelp</PackageTags>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Authors>Endelon-Hosting</Authors>
+        <PackageIcon>icon.png</PackageIcon>
     </PropertyGroup>
+
+    <ItemGroup>
+      <None Update="icon.ico">
+        <Pack>True</Pack>
+        <PackagePath></PackagePath>
+      </None>
+      <None Update="icon.png">
+        <Pack>True</Pack>
+        <PackagePath></PackagePath>
+      </None>
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    </ItemGroup>
 
 </Project>
